@@ -30,5 +30,7 @@ The purpose of this project is to demonstrate my ability to analyze raw business
 -  Consolidated pivot tables into a single dashboard with slicers for interactivity.
 -  Designed and formatted dashboard visuals for readability and insights presentation.
 
+## Dashboard
+
 -  ![Screenshot 2025-01-26 160613](https://github.com/user-attachments/assets/ac4330d4-e602-4322-867f-6c271e6bf518)
 

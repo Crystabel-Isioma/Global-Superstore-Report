@@ -34,3 +34,5 @@ The purpose of this project is to demonstrate my ability to analyze raw business
 
 -  ![Screenshot 2025-01-26 160613](https://github.com/user-attachments/assets/ac4330d4-e602-4322-867f-6c271e6bf518)
 
+##Project Insight
+-Western Europe dominates sales,contributing to the largest share to overall revenue

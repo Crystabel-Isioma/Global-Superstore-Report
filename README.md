@@ -20,3 +20,15 @@ The purpose of this project is to demonstrate my ability to analyze raw business
 - What is the growth in sales over the years.
 - What are the shipping methods used, and how do they impact sales.
 - Which shipping mode is most frequently used for different segments or regions.
+
+-   Dashboard Interactions <a href ="https://github.com/Crystabel-Isioma/ExcelDataStorytelling/commit/b315deab5c4982ffa34effde7af696ea8a57ed52">View Dashboard</a>
+
+## Process
+- Verified data for missing values and anomalies, cleaned and standardized entries.
+- Ensured consistency in data types, formats, and values across the dataset.
+- Created pivot tables to answer key questions and perform conditional analysis.
+-  Consolidated pivot tables into a single dashboard with slicers for interactivity.
+-  Designed and formatted dashboard visuals for readability and insights presentation.
+
+-  ![Screenshot 2025-01-26 160613](https://github.com/user-attachments/assets/ac4330d4-e602-4322-867f-6c271e6bf518)
+

@@ -7,8 +7,8 @@ The purpose of this project is to demonstrate my ability to analyze raw business
 -  <a href ="https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset">Dataset</a>
 
 ## Questions (KPIs)
--What is the total sales revenue across all regions.
--What is the total profit and percentage growth in sales.
+- What is the total sales revenue across all regions.
+- What is the total profit and percentage growth in sales.
 - Which region generates the highest and lowest sales.
 - Which customer segment contributes the most to overall sales.
 - What is the percentage contribution of each customer segment to total sales.

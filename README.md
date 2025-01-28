@@ -34,7 +34,7 @@ The purpose of this project is to demonstrate my ability to analyze raw business
 
 -  ![Screenshot 2025-01-26 160613](https://github.com/user-attachments/assets/ac4330d4-e602-4322-867f-6c271e6bf518)
 
-##Project Insight
+## Project Insight
 - Western Europe outperforms Central Asia in total sales, indicating stronger market demand and potential for further investment in high-performing regions.
 - Sales exhibit a significant increase in November, while January experiences a decline, suggesting the need for targeted promotions to boost off-season sales.
 - The Technology category generates the highest profit, with the top five most profitable products contributing significantly to overall revenue, highlighting key areas for strategic focus.

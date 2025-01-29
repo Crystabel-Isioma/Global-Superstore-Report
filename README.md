@@ -42,7 +42,7 @@ The purpose of this project is to demonstrate my ability to analyze raw business
 - Year-over-year sales trends indicate consistent growth, with peak months likely influenced by seasonal promotions or external market factors.
 - "Same Day" shipping offers the fastest delivery but at a higher cost, while "Standard Class" remains the most cost-effective option, emphasizing the need for optimized logistics strategies.
 
- ## Final Conclusion
+ ##  Final Conclusion
 - To enhance sales performance, a strategic approach should be implemented, focusing on high-growth regions like Western Europe while addressing weaker markets with targeted initiatives.
 -  Seasonal trends indicate a significant rise in sales during November, whereas January experiences a decline, suggesting the need for promotional campaigns and strategic discounting to boost early-year revenue.  
 - Technology emerges as the most profitable category, warranting increased investment and product expansion, while less profitable segments should be reassessed for optimization.
